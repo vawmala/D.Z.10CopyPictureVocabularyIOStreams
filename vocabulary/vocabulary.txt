@@ -1,0 +1,10 @@
+﻿папа father
+мама mother
+собака dog
+кошка cat
+стол table
+автобус bus
+ручка pen
+яблоко apple
+сок juice
+школа school
